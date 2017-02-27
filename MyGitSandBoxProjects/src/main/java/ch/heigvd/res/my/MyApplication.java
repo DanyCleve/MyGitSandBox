@@ -7,7 +7,7 @@ package ch.heigvd.res.my;
 
 /**
  *
- * @author Sims
+ * @author Bob
  */
 public class MyApplication {
     
