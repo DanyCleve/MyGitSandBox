@@ -7,8 +7,8 @@ package ch.heigvd.res.my;
 
 /**
  *
- * @author sims
+ * @author Alice
  */
-public class MyApplication {
-
+public class Alice {
+    
 }
